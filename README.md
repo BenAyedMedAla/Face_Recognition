@@ -171,16 +171,3 @@ project/
 - Support for additional emotion classes
 - Model quantization for deployment
 
-## License
-
-This project is available under the MIT License.
-
-## Citation
-
-If you use this code in your research, please cite the original CK+ dataset:
-```
-Lucey, P., Cohn, J. F., Kanade, T., Saragih, J., Ambadar, Z., & Matthews, I. (2010). 
-The extended cohn-kanade dataset (ck+): A complete dataset for action unit and 
-emotion-specified expression. In 2010 ieee computer society conference on computer 
-vision and pattern recognition-workshops (pp. 94-101). IEEE.
-```
